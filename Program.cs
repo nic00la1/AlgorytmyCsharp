@@ -10,9 +10,10 @@
 
 // ================ Sortowanie Bąbelkowe ===============
 
-/*
+
 int[] t = {3, 2 ,4 , 1, 5, 6};
 
+/*
 void BubbleSort(int[] t) 
 {
     for (int i = 0; i < t.Length - 1; i++) 
@@ -53,7 +54,16 @@ void InsertSort(int[] t)
 
         while (j >= 0 && klucz < t[j]) 
         {
-            
+            Console.WriteLine($"Przeniesiono {t[j + 1]} na miejsce liczby {t[j]}");
+            t[j + 1] = t[j];
+            j--;
         }
+
+        t[j + 1] = klucz;
+        
+        Console.WriteLine(string.Join(" ", t));
+        Console.WriteLine();
     }
 }
+
+InsertSort(t);
