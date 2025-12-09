@@ -1,5 +1,8 @@
 # Algorytmy C#
 
+## Zadanie na ocenę - Sortowanie przez wstawianie + Wyszukiwanie binarne
+<img width="517" height="1013" alt="image" src="https://github.com/user-attachments/assets/07e945c6-3b9a-48db-b329-bc2fae245dcd" />
+
 ## Sortowanie Bąbelkowe
 <img width="454" height="259" alt="image" src="https://github.com/user-attachments/assets/c9f9f710-5446-4b76-8e9a-9c119c3b7e53" />
 
