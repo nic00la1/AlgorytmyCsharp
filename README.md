@@ -5,3 +5,6 @@
 
 ## Sortowanie przez wstawianie
 <img width="426" height="276" alt="image" src="https://github.com/user-attachments/assets/249a6268-75c9-4c77-8e3f-35842614efb4" />
+
+## Sortowanie przez wybieranie + Wyszukiwanie binarne 
+<img width="555" height="990" alt="image" src="https://github.com/user-attachments/assets/c3716ccb-62da-42e8-8725-1968de667532" />
